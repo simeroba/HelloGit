@@ -1,1 +1,1 @@
-conslone.log("helloworld")
+conslone.log("se")
